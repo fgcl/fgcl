@@ -1,5 +1,6 @@
 ## Olá Mundo 👋
 Eu sou o Felipe Gonçalves Chagas Leite, tenho 25 anos e nasci em 11 de maio de 2000. 
+
 Atualmente moro em Poços de Caldas e estou cursando Ciência da Computação na PUC Minas.
 
 ---
@@ -16,7 +17,9 @@ Na faculdade por enquanto aprendi a:
 Já trabalhei em um projeto pessoal de um bot do Telegram que servia apenas como jogo,
 utilizei python e a blibioteca descontinuada Pyrogram, aprendi um pouco de SQLite para
 armazenar dados em meu servidor.
+
 Programo em lisp para automatizar meus projetos elétricos.
+
 Mas saber de linguagens de programação é algo trivial, um bom cientista
 deve pesquisar e saber qual é a melhor para a aplicação do projeto.
 
@@ -24,11 +27,14 @@ deve pesquisar e saber qual é a melhor para a aplicação do projeto.
 
 Gosto e recomendo demais os livros da série Use a Cabeça!, aprender com quebra-cabeças é
 inovador e estimulante.
+
 Muitas das vezes, gasto a maior parte do meu dia, procurando e testando alternativas para 
 todos os programas/aplicativos/sites que utilizo. Com isso encontro as melhores ferramentas 
 do mercado (é muita ferramenta e geralmente muda muito rápido).
+
 Não gosto de ambientes desorganizados e você vai me ver limpando ou ajeitando algo. Me incomodo
 bastante deixar um papel de bala no chão.
+
 No tempo livre gosto de fazer desenhos digitais e já criei "sites", virar designer é meu plano c.
 
 ### 📫 Contato
