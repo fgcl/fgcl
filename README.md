@@ -14,7 +14,7 @@ Na faculdade por enquanto aprendi a:
 - criar códigos em C (com blibiotecas graficas raylib)
 - Java com JFrame.
   
-###🔧 Aprendizados
+### 🔧 Aprendizados
 
 Já trabalhei em um projeto pessoal de um bot do Telegram que servia apenas como jogo,
 utilizei python e a blibioteca descontinuada Pyrogram, aprendi um pouco de SQLite para
