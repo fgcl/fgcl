@@ -16,7 +16,7 @@ Meu hobbie é encontrar alternativas. Eu não desisto de consertar o problema, e
 Gosto de fazer desenhos SVGs.
 (lembrar de inserir algum svg que eu fiz aqui)
 
-** Aprendendo...**
+**Aprendendo...**
 <!-- Icones de desenvolvimento-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
