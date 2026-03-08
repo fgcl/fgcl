@@ -16,6 +16,7 @@ Meu hobbie é encontrar alternativas. Eu não desisto de consertar o problema, e
 Gosto de fazer desenhos SVGs.  
 (lembrar de inserir algum svg que eu fiz aqui)  
 <img width="100" height="100" alt="bitmap" src="https://github.com/user-attachments/assets/a70aea1e-a896-46cc-8c6b-db7854b0f1e6" />
+<img width="149" height="299" alt="unnamed" src="https://github.com/user-attachments/assets/bc3294e0-94c8-426d-ae78-1b956b91fcc6" />
 
 
 **Aprendendo...**
