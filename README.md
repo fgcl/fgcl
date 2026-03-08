@@ -11,13 +11,6 @@
   </a>
 </p>
 
-# Formação
-Ciencia da Computação (em andamento)
-Eletrotecnica
-
-# Resumo Profissional
-Estagiário
-
 # 🦸‍♂️ Super-poderes
 Meu hobbie é encontrar alternativas. Eu não desisto de consertar o problema, eu procuro novas opções. Você percebeu como esse perfil está cheio de "widgets"?
 Gosto de fazer desenhos SVGs.
@@ -26,12 +19,16 @@ Gosto de fazer desenhos SVGs.
 # 🪓 Vibecode
 Tenho vários projetos de vibecode para ajudar a melhorar minhas habilidades de programação, porque não fiquei satisfeito com as ferramentas disponiveis que encontrei.  
 IA trabalhando em:  
-Jogo para programar robos.  
-Tentativa de criar uma "inteligencia artificial geral", uma hora dá certo ou errado. (depende do ponto de vista)  
-Um aplicativo para acompanhar rotinas e habitos, porque se não eu esqueço.  
-Uma alternativa ao app de coruja verde, especifico para programação.  
+1. Jogo para programar robos.  
+2. Tentativa de criar uma "inteligencia artificial geral", uma hora dá certo ou errado. (depende do ponto de vista)  
+3. Um aplicativo para acompanhar rotinas e habitos, porque se não eu esqueço.  
+4. Uma alternativa ao app de coruja verde, especifico para programação.  
 
-
+# Projetos da Faculdade
+<img width="769" height="223" alt="image" src="https://github.com/user-attachments/assets/97b072ea-c608-4843-9618-95f5befccb51" />  
+https://github.com/pucpcaldas-robos/docs
+<img width="764" height="210" alt="image" src="https://github.com/user-attachments/assets/bd109f77-e4e2-4585-aea2-e145f943e797" /> 
+https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/
 
 
 
