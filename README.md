@@ -13,8 +13,10 @@
 
 # 🦸‍♂️ Super-poderes
 Meu hobbie é encontrar alternativas. Eu não desisto de consertar o problema, eu procuro novas opções. Você percebeu como esse perfil está cheio de "widgets"?
-Gosto de fazer desenhos SVGs.
-(lembrar de inserir algum svg que eu fiz aqui)
+Gosto de fazer desenhos SVGs.  
+(lembrar de inserir algum svg que eu fiz aqui)  
+<img width="100" height="100" alt="bitmap" src="https://github.com/user-attachments/assets/a70aea1e-a896-46cc-8c6b-db7854b0f1e6" />
+
 
 **Aprendendo...**
 <!-- Icones de desenvolvimento-->
