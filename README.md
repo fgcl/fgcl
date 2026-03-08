@@ -16,23 +16,7 @@ Meu hobbie é encontrar alternativas. Eu não desisto de consertar o problema, e
 Gosto de fazer desenhos SVGs.
 (lembrar de inserir algum svg que eu fiz aqui)
 
-# 🪓 Vibecode
-Tenho vários projetos de vibecode para ajudar a melhorar minhas habilidades de programação, porque não fiquei satisfeito com as ferramentas disponiveis que encontrei.  
-IA trabalhando em:  
-1. Jogo para programar robos.  
-2. Tentativa de criar uma "inteligencia artificial geral", uma hora dá certo ou errado. (depende do ponto de vista)  
-3. Um aplicativo para acompanhar rotinas e habitos, porque se não eu esqueço.  
-4. Uma alternativa ao app de coruja verde, especifico para programação.  
-
-# Projetos da Faculdade
-<img width="769" height="223" alt="image" src="https://github.com/user-attachments/assets/97b072ea-c608-4843-9618-95f5befccb51" />  
-https://github.com/pucpcaldas-robos/docs
-<img width="764" height="210" alt="image" src="https://github.com/user-attachments/assets/bd109f77-e4e2-4585-aea2-e145f943e797" /> 
-https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/
-
-
-
-
+** Aprendendo...*
 <!-- Icones de desenvolvimento-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
@@ -51,6 +35,23 @@ https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+# 🪓 Vibecode
+Tenho vários projetos de vibecode para ajudar a melhorar minhas habilidades de programação, porque não fiquei satisfeito com as ferramentas disponiveis que encontrei.  
+IA trabalhando em:  
+1. Jogo para programar robos.  
+2. Tentativa de criar uma "inteligencia artificial geral", uma hora dá certo ou errado. (depende do ponto de vista)  
+3. Um aplicativo para acompanhar rotinas e habitos, porque se não eu esqueço.  
+4. Uma alternativa ao app de coruja verde, especifico para programação.  
+
+# Projetos da Faculdade
+<img width="769" height="223" alt="image" src="https://github.com/user-attachments/assets/97b072ea-c608-4843-9618-95f5befccb51" /> 
+
+https://github.com/pucpcaldas-robos/docs
+<img width="764" height="210" alt="image" src="https://github.com/user-attachments/assets/bd109f77-e4e2-4585-aea2-e145f943e797" />  
+https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/
+
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 </p>
