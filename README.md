@@ -45,16 +45,36 @@ IA trabalhando em:
 1. Jogo para programar robos.  
 2. Tentativa de criar uma "inteligencia artificial geral", uma hora dá certo ou errado. (depende do ponto de vista)  
 3. Um aplicativo para acompanhar rotinas e habitos, porque se não eu esqueço.  
-4. Uma alternativa ao app de coruja verde, especifico para programação.  
 
-# Projetos da Faculdade
-<img width="769" height="223" alt="image" src="https://github.com/user-attachments/assets/97b072ea-c608-4843-9618-95f5befccb51" /> 
+# Projetos
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Inovação Científica de Robôs na PUC Poços</h3>
+      <p align="center"><i>Out 2025 - Presente | Projeto Pessoal</i></p>
+      <hr>
+      <p>O projeto é para recuperar robôs danificados e desenvolver a documentação para futuros alunos poderem utilizar.</p>
+      <p><b>Habilidades:</b> Github, Relatórios investigativos, Programação de Robôs, Gerenciamento de projetos, Manutenção de computadores.</p>
+      <br>
+      <div align="center">
+        <a href="COLOQUE_O_LINK_AQUI">🔗 Link da organização no GitHub</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Plataforma Educacional Tuco (Synapse)</h3>
+      <p align="center"><i>Jun 2025 - Presente | Projeto Pessoal</i></p>
+      <hr>
+      <p>Projeto pessoal de uma plataforma educacional offline. Utilizada no projeto de extensão para integração de componentes para acessibilidade de pessoas com deficiência.</p>
+      <p><b>Habilidades:</b> Integração Social, Pesquisa, Plataformas educacionais, Acessibilidade, Desenvolvedor de design.</p>
+      <br>
+      <div align="center">
+        <a href="COLOQUE_O_LINK_AQUI">🔗 GitHub do projeto (Extensão)</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-https://github.com/pucpcaldas-robos/docs
-<img width="764" height="210" alt="image" src="https://github.com/user-attachments/assets/bd109f77-e4e2-4585-aea2-e145f943e797" />  
-https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/
-
-
+<h1 align="right">Rodape🦶</h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 </p>
