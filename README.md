@@ -57,18 +57,18 @@ IA trabalhando em:
       <p><b>Habilidades:</b> Github, Relatórios investigativos, Programação de Robôs, Gerenciamento de projetos, Manutenção de computadores.</p>
       <br>
       <div align="center">
-        <a href="COLOQUE_O_LINK_AQUI">🔗 Link da organização no GitHub</a>
+        <a href="https://github.com/pucpcaldas-robos/docs">🔗 Link da organização no GitHub</a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Plataforma Educacional Tuco (Synapse)</h3>
+      <h3 align="center">🧠 Plataforma Educacional Tuco</h3>
       <p align="center"><i>Jun 2025 - Presente | Projeto Pessoal</i></p>
       <hr>
       <p>Projeto pessoal de uma plataforma educacional offline. Utilizada no projeto de extensão para integração de componentes para acessibilidade de pessoas com deficiência.</p>
       <p><b>Habilidades:</b> Integração Social, Pesquisa, Plataformas educacionais, Acessibilidade, Desenvolvedor de design.</p>
       <br>
       <div align="center">
-        <a href="COLOQUE_O_LINK_AQUI">🔗 GitHub do projeto (Extensão)</a>
+        <a href="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7">🔗 GitHub do projeto (Extensão)</a>
       </div>
     </td>
   </tr>
