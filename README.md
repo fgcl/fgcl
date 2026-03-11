@@ -61,7 +61,7 @@ IA trabalhando em:
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Plataforma Educacional Tuco</h3>
+      <h3 align="center">🧠 (Uso de IA) Plataforma Educacional Tuco</h3>
       <p align="center"><i>Jun 2025 - Presente | Projeto Pessoal</i></p>
       <hr>
       <p>Projeto pessoal de uma plataforma educacional offline. Utilizada no projeto de extensão para integração de componentes para acessibilidade de pessoas com deficiência.</p>
