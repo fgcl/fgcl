@@ -74,6 +74,15 @@ IA trabalhando em:
   </tr>
 </table>
 
+<div align="center" style="margin: 50px 0;">
+  <blockquote style="border-left: 5px solid #58a6ff; padding-left: 20px; color: #c9d1d9; font-size: 1.3em; max-width: 700px; line-height: 1.7;">
+    A excelência nada mais é do que o amontoado de comportamentos que isoladamente nada têm de extraordinário.
+  </blockquote>
+  <p style="color: #8b949e; margin-top: 15px; font-size: 1em;">
+    — Daniel Chambliss
+  </p>
+</div>
+
 <h1 align="right">Rodape🦶</h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
