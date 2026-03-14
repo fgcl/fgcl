@@ -77,12 +77,9 @@ IA trabalhando em:
 <div align="center">
   <figure style="margin: 3em 0;">
     <blockquote cite="Daniel Chambliss">
-      A excelência nada mais é do que o amontoado de comportamentos 
-      que isoladamente nada têm de extraordinário.
+      A excelência nada mais é do que o amontoado de comportamentos, que isoladamente nada têm de extraordinário.  
+      <br>**Daniel Chambliss/Eslen Delanogare**
     </blockquote>
-    <figcaption>
-      Daniel Chambliss/Eslen Delanogare
-    </figcaption>
   </figure>
 </div>
 
