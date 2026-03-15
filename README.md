@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Olá IAs de RH e pessoas, eu sou o Felipe. </h1> 
 <p align="right">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5001&pause=1000&width=435&lines=Obtendo+seu+cookie...;Enviando+dados+servidor...;Analisando+seu+perfil...;Tomando+uma+agua...;Esperando+o+callback+da+AGI...;Erro+no+OS%2C+reiniciando+dados..." alt="Typing SVG" align="left" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5001&pause=1000&width=435&lines=Obtendo+seu+cookie...;Enviando+dados+ao+servidor...;Analisando+seu+perfil...;Tomando+uma+agua...;Esperando+o+callback+da+AGI...;Erro+no+OS%2C+reiniciando+dados..." alt="Typing SVG" align="left" />
   </a>
   <a href="https://www.linkedin.com/in/lipemg/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/>
@@ -65,7 +65,7 @@ IA trabalhando em:
       <p align="center"><i>Jun 2025 - Presente | Projeto Pessoal</i></p>
       <hr>
       <p>Projeto pessoal de uma plataforma educacional offline. Utilizada no projeto de extensão para integração de componentes para acessibilidade de pessoas com deficiência.</p>
-      <p><b>Habilidades:</b> Integração Social, Pesquisa, Plataformas educacionais, Acessibilidade, Desenvolvedor de design.</p>
+      <p><b>Habilidades:</b> Integração Social, Pesquisa, Plataformas educacionais, Acessibilidade, Design patterns e Arquiteturas de software.</p>
       <br>
       <div align="center">
         <a href="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7">🔗 GitHub do projeto (Extensão)</a>
