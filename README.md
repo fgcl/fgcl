@@ -19,20 +19,16 @@ Gosto de fazer desenhos SVGs.
 <img width="149" height="299" alt="unnamed" src="https://github.com/user-attachments/assets/bc3294e0-94c8-426d-ae78-1b956b91fcc6" />
 
 
-**Aprendendo...**
 <!-- Icones de desenvolvimento-->
 <div align="center">
+  <b>Aprendendo...</b><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -44,7 +40,8 @@ Tenho vários projetos de vibecode para ajudar a melhorar minhas habilidades de 
 IA trabalhando em:  
 1. Jogo para programar robos.  
 2. Tentativa de criar uma "inteligencia artificial geral", uma hora dá certo ou errado. (depende do ponto de vista)  
-3. Um aplicativo para acompanhar rotinas e habitos, porque se não eu esqueço.  
+3. Um aplicativo para acompanhar rotinas e habitos, porque se não eu esqueço.
+4. Aplciativo que melhora qualidades de imagens.
 
 # Projetos
 <table width="100%">
